@@ -8,7 +8,7 @@ I,ve been studying programming since 2021, and im focusing in developing Web and
 
 * 🌍  I'm based in Bekasi, Indonesia
 * ✉️  You can contact me at [novaladiperasetya@gmail.com](mailto:novaladiperasetya@gmail.com)
-* 🧠  I'm learning Kotlin and Web developing
+* 🧠  I'm learning Kotlin and Web
 
 ### Skills
 
